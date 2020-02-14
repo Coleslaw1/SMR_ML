@@ -1,2 +1,2 @@
 # ML
-Machine learning repo for SMR
+Machine learning repo for the SMR-minor
